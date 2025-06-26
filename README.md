@@ -1,4 +1,4 @@
-##🌱 Hey! I'm Sam!🌱
+## 🌱 Hey! I'm Sam!🌱
 
 ---
 I'm a software engineer and developer interested in web development, mobile development and a little bit of game design on the side.
