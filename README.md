@@ -10,7 +10,7 @@ Favorite Games:
 - Outer Wilds
 - Hollow Knight
 
-⚡I am currently working on a project of making a better bug journal for myself! (Updated 6/24/25)
+⚡I am currently working on a project of making a better bug journal for myself + a new portfolio :) (Updated 7/7/25)
 ---
 ## 🌟 Let’s Connect!  
 - [LinkedIn](https://www.linkedin.com/in/sam-baker-tech/)
