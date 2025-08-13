@@ -1,4 +1,5 @@
 ## 🌱 Hey! I'm Sam!🌱
+New Portfolio: https://appledcrab.vercel.app/
 
 ---
 I'm a software engineer and developer interested in web development, mobile development and a little bit of game design on the side.
@@ -10,11 +11,13 @@ Favorite Games:
 - Outer Wilds
 - Hollow Knight
 
-⚡I am currently working on a project of making a better bug journal for myself + a new portfolio :) (Updated 7/7/25)
+⚡I am currently working on a project of making a better bug journal for myself  :) 
 ---
 ## 🌟 Let’s Connect!  
 - [LinkedIn](https://www.linkedin.com/in/sam-baker-tech/)
 - [Email](baker.samantha2021@gmail.com)
+
+(Updated 8/13/25)
 <!--
 **appledcrab/appledcrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
